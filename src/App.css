@@ -45,3 +45,24 @@ h3{
   background-color: #4f5f80;
   color: white;
 }
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(129, 141, 45);
+  color: white;
+  text-align: center;
+}
+.blog-card {
+  display:flex;
+  justify-content: space-between;
+  align-items:center;
+  padding: 50px;
+  font-size: larger;
+  align-items: center;
+  background-color: rgb(90, 158, 94);
+  color: white;
+  text-align: center;
+}

@@ -10,10 +10,6 @@ function NavBar() {
       <li><a href='/about'>About</a></li>
         <li><a href='/blog'>Blog</a></li>
       </ul>
-      <form>
-          <input />
-          <button> Search</button>
-        </form>
      </nav>
     </div>
   )
