@@ -4,7 +4,6 @@ import React, { useEffect, useState } from "react";
 import CartoonCard from "./Components/CartoonCard";
 import NavBar from "./Components/NavBar";
 import Footer from "./Components/Footer";
-import Favorites from "./Components/Favorites";
 import Blog from "./Components/Blog"
 import About from "./Components/About";
 function App() {
@@ -32,7 +31,6 @@ function App() {
       </div>
         </Route>
         <Route exact path ="/about"> <About/></Route>
-        <Route exact path ="/favorite"><Favorites /></Route>
         <Route exact path ="/blog"><Blog /></Route>
       </Switch>
       <Footer />
