@@ -1,20 +1,21 @@
 # My Cartoons
-#Project Description
+# Project Description
+
 This is a project designed to help ease access to age-appropriate and locally available cartoons for Kids. The applictaion runs on a locally developed database of cartons that are popular and that likely to be accessed from Youtube. In the application, there is a description of the cartoon, the main subject matter of the watch and the various other attributes that can guide a user on whether to watch or not to watch the show. There is also a link directly to the Youtube channel where the particular cartoon is available, and a very elaborate and enticing image of the cartoon poster on the first page of the app.
 
-#Author
+# Author
 The site has been authored and prepared by Francis W Muriithi of personal email frankproficient@gmail.com. It has been prepared as a requirement for the completion of Phase-2 of software engineering course at Moringa School, Kenya.
 
-#Live Link
+# Live Link
 
-#Technologies Used
+# Technologies Used
 The completion of the project necessitated proficiency in;
 CSS
 JavaScript
 React JS
 JSON-API
 
-#Licenses
+# Licenses
 ## MIT License
 ## Copyright (c) 2022 Muriithi Francis
 
