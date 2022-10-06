@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/phase-2-project-cartoons/static/css/main.6ac12f2f.css",
+    "main.js": "/phase-2-project-cartoons/static/js/main.cb97b456.js",
+    "index.html": "/phase-2-project-cartoons/index.html",
+    "main.6ac12f2f.css.map": "/phase-2-project-cartoons/static/css/main.6ac12f2f.css.map",
+    "main.cb97b456.js.map": "/phase-2-project-cartoons/static/js/main.cb97b456.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ac12f2f.css",
+    "static/js/main.cb97b456.js"
+  ]
+}
